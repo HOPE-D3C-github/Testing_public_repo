@@ -1,3 +1,10 @@
+# All Word Documents
+*.docx
+
+# Select Text documents
+TEXT_1.txt
+TEXT_2.txt
+
 # History files
 .Rhistory
 .Rapp.history
