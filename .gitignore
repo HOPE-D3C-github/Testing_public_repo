@@ -1,5 +1,5 @@
 # All Word Documents
-*.docx
+.docx
 
 # Select Text documents
 TEXT_1.txt
